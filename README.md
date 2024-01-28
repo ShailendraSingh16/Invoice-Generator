@@ -7,13 +7,8 @@ An Invoice Generator project built with React and TailwindCSS. Add items, quanti
 
 ### Live Demo
 
-https://react-invoice-generator.web.app/
+ https://invoice-generator-one-blue.vercel.app/
 
-### Screenshots
-
-<img src="https://imgur.com/rjisRPZ.jpg" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://imgur.com/vuiKcrK.jpg" style="max-width: 100px;width: 100%; height: auto;">
-<img src="https://imgur.com/bXNiAHT.jpg" style="max-width: 100px;width: 100%; height: auto;">
 
 ### Tools
 
@@ -22,17 +17,3 @@ https://react-invoice-generator.web.app/
 - Headless UI
 - Html-to-image
 - jsPDF
-
-### Instalation
-
-```
-git clone https://github.com/hourmeng12/invoice-generator
-
-npm install
-
-npm start / npm run build
-```
-
-### Meta
-
-Hourmeng Khy
